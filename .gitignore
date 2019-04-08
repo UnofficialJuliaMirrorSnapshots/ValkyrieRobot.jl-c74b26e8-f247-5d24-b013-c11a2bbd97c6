@@ -1,0 +1,7 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/Valkyrie
+deps/valkyrie
+deps/build.log
+
